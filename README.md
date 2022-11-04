@@ -19,15 +19,8 @@
 
  Ниже пример кода из нашего приложения:
  ```
- pfpfkff
- kfflflmf
- kflflfmf
- ```
-
-`.selector {`
-
- ` font-family: "Awesome", Arial, sans-serif;`
- 
-  `color: red;`
-  
-`}`
+.selector {
+ font-family: "Awesome", Arial, sans-serif;`
+ color: red;
+}
+```
